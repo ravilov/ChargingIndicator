@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Charging Indicator</string>
+	<string name="desc_charging">Battery charging</string>
+	<string name="desc_discharging">Battery not charging</string>
+	<string name="desc_unknown">Battery status unknown</string>
+</resources>
